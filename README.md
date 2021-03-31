@@ -1,6 +1,8 @@
 # wand
 
-Wand makes it easy to configure dash, houdini and a media server.
+This is standart wand without media server
+
+Wand makes it easy to configure dash, houdini.
 
 ## Basic setup
 
